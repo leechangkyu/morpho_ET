@@ -1,2 +1,3 @@
 # morpho_ET
-morpho analysis related with ET
+#morpho analysis related with ET
+#given Ttype dendrogram, we would like to do analysis as we merge Ttypes...
